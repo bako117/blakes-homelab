@@ -7,9 +7,15 @@ Welcome to my personal homelab! I am currently a SOC analyst and this is where I
 - Creating with arduino to better understand embedded systems, hardware, and physical layer security
 - Beating HackTheBox ctf challenges to grow my red team skills
   
-## Current Projects: 
-- Building my at home SOC
-- Making an arduino to report the weather via a Splunk dashboard
+### Current Projects: 
+- Building a SOC in my room and having it generate detections in my environment
+- Making an arduino project to report the weather via a Splunk dashboard
+
+## All Projects:
+| Lab | Summary | Status |
+|-----|---------|--------|
+|Building my at home SOC| Building a SOC in my room and having it generate detections in my environment | In Progress |  
+|Splunk Weather Report|  Making an arduino to report the weather via a Splunk dashboard | In Progress | 
 
 ## Connect With Me!
 - https://www.linkedin.com/in/blake-kottlowski/
