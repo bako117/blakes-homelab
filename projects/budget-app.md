@@ -5,7 +5,7 @@
 **End-Date:** Completed (v1) — future improvements possible  
 
 **Overview:**  
-This project is a command line Python application designed to track expenses, budgets, and account balances in an efficient, lightweight way. It provides category-based expense tracking, summaries, and persistent saving/loading of data. The app runs directly in a terminal environment and is tailored for personal finance management.  
+After being sick and tired of trying to find a budgeting app that either didn't want to steal my data or was just too complex to use, I decided to make a command line Python application designed to track expenses, budgets, and account balances in an efficient, lightweight way. It provides category-based expense tracking, summaries, and persistent saving/loading of data. The app runs directly in a terminal environment and is tailored for personal finance management.  
 
 **Goal/Idea:** Build a personal budgeting tool that is simple to run anywhere, teaches practical Python development, and provides real-world value.  
 - Track expenses by category  
