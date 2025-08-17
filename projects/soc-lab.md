@@ -1,5 +1,5 @@
-#At-Home SOC 
-##Summary
+# At-Home SOC 
+## Summary
 **First Started:** August 2025
 
 **End-Date:** Still ongoing
@@ -12,12 +12,12 @@
 - Make my home network stronger and more resistant to threats
 - Utilize automation and create workflows to reduce any analysis time
 
-##Skills Learned
+## Skills Learned
 - Security Tool Deployment
 - Detection Creation
 - Log Ingestion Development
   
-##Sub-Project Table
+## Sub-Project Table
 Creating an at-home SOC is unfortunately not as simple as downloading a single piece of software and hitting run. This project has me constantly learning and required many separate work sessions to get my SOC into it's current state. Below are all the lab writeups related to this project. 
 | Project | Tools Utilized | Summary | Date Started |
 |---|---|---|---|
