@@ -13,6 +13,7 @@ A project index table that lists every project I’ve worked on, with direct lin
 - Sub-projects or components of a larger project are referenced using hierarchical notation (e.g., 1.1, 1.2, 1.3), where:
       - X = the parent project identifier
       - Y = the sub-project identifier under that parent
+
 This structure makes it easy to see which efforts are part of a larger initiative and which stand independently. Click on any project name to see more.  
 | Lab | Summary | Status |
 |-----|---------|--------|
