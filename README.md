@@ -14,7 +14,7 @@ Welcome to my personal homelab! I am currently a SOC analyst and this is where I
 ## All Projects:
 | Lab | Summary | Status |
 |-----|---------|--------|
-|[01 - Building my at home SOC](labs/lab01-SOC-build.md)| Building a SOC in my room and having it generate detections in my environment | In Progress |  
+|[01 - Building my at home SOC](labs/lab01-SOC-build.md)| Building a SOC for my home network and using it to generate detections/learn new tools | In Progress |  
 |[02 - Splunk Weather Report](labs/lab02-weather-station.md)|  Making an arduino to report the weather via a Splunk dashboard | In Progress | 
 
 ## Connect With Me!
