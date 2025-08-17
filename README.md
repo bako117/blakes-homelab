@@ -16,12 +16,13 @@ A project index table that lists every project I’ve worked on, with direct lin
 This structure makes it easy to see which efforts are part of a larger initiative and which stand independently. Click on any project name to see more.  
 | Lab | Summary | Status |
 |-----|---------|--------|
-|[1 - Building my at home SOC](projects/soc-lab.md)| An ongoing project where I develop a Secure Operations Center (SOC) ay my house | In Progress |
-|[1.1 - Deploying PiHole]()| Setting up network-wide adblocking through DNS filtering and logging. Also configuring DHCP and a raspberry pi| COMPLETE | 
-|[1.2 - Setting Up Splunk Enterprise]()| Creating a server VM and deploying/configuring popular SIEM solution, Splunk | COMPLETE |
-|[1.3 - Writing a Splunk app for PiHole]() | Creating a Splunk App to properly parse data indexed from pihole | COMPLETE |
-|[2 - Splunk Weather Report](projects/weather-station.md)|  Making an arduino to report the weather via a Splunk dashboard | In Progress | 
-|[3 - Command Line Python Budgeting App]()| A simple command line budget app for personal use | COMPLETE | 
+| [1 - Building my at home SOC](projects/soc-lab.md) | An ongoing project where I develop a Security Operations Center (SOC) at my house | In Progress |
+| [1.1 - Deploying Pi-hole](projects/pihole.md) | Setting up network-wide ad blocking through DNS filtering and logging. Also configuring DHCP on a Raspberry Pi | Complete | 
+| [1.2 - Setting Up Splunk Enterprise](projects/splunk-setup.md) | Creating a server VM and deploying/configuring the SIEM solution Splunk | Complete |
+| [1.3 - Writing a Splunk App for Pi-hole](projects/pihole-ta.md) | Creating a Splunk App to properly parse and normalize Pi-hole data | Complete |
+| [2 - Splunk Weather Report](projects/weather-station.md) | Making an Arduino project to report the weather via a Splunk dashboard | In Progress | 
+| [3 - Command Line Python Budgeting App](projects/budget-app.md) | A simple command line budgeting app for personal use | Complete |
+
 
 ## Connect With Me!
 - https://www.linkedin.com/in/blake-kottlowski/
