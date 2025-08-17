@@ -6,7 +6,11 @@ Welcome to my personal homelab! I am currently a SOC analyst and this is where I
 - Designing a SOC in my room to develop a deep understanding of blue team operations
 - Creating with arduino to better understand embedded systems, hardware, and physical layer security
 - Beating HackTheBox ctf challenges to grow my red team skills
-  
+
+## Recent Updates
+- Created writeups for all my previous work
+- Wrote a Splunk TA to fix parsing issues with pihole logs
+
 ## All Projects:
 A project index table that lists every project I’ve worked on, with direct links to their write-ups.
 - Standalone or major projects are numbered with a single integer (e.g., 1).
