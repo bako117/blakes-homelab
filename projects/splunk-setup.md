@@ -37,7 +37,7 @@ This project involved setting up Splunk Enterprise inside a VMware Workstation P
 To make the project documentation more engaging, include the following screenshots:  
 
 1. **Splunk Login Page** (I changed the original background lol)   
-![splunk login](images/splunk-login.png)
+![splunk login](../images/splunk-login.png)
 
 3. **Search Query Results** - Showing the ingested logs from pihole
-![splunk search](images/pihole-logs.png)
+![splunk search](../images/pihole-logs.png)
